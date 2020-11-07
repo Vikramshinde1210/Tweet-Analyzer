@@ -31,7 +31,7 @@ Presentation : Presentation of the project
 Final_Demo.gif : Demostration of Input and Output flow
 
 <h1 align="center">Demonstration</h1>
-![](Final_demo.gif)
+<img src="Final_demo.gif"  />
 
 Steps to run this project on localhost:
 1. Create twitter developer account and generate api keys
