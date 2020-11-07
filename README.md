@@ -6,14 +6,14 @@ This is a cool web app integrated with twitter which takes the twitter handel as
 
 1.Analyze the tweets of your favourite Personalities
 
-This tool performs the following tasks :
-1. Fetches the 5/10/50/100 most recent tweets from the given twitter handel
-2. Generates a Word Cloud
-3. Performs Sentiment Analysis a displays it in form of a Count plot 
-	Sentiment analysis is done by performing following operation on the text
-	1. Analyzes Subjectivity of tweets and adds an additional column for it
-	2. Analyzes Polarity of tweets and adds an additional column for it
-	3. Analyzes Sentiments of tweets and adds an additional column for it
+	This tool performs the following tasks :
+	1. Fetches the 5/10/50/100 most recent tweets from the given twitter handel
+	2. Generates a Word Cloud
+	3. Performs Sentiment Analysis a displays it in form of a Count plot 
+		Sentiment analysis is done by performing following operation on the text
+		1. Analyzes Subjectivity of tweets and adds an additional column for it
+		2. Analyzes Polarity of tweets and adds an additional column for it
+		3. Analyzes Sentiments of tweets and adds an additional column for it
 
 2. Perform general keyword on twitter and display the fetched tweets related to keyword
 
